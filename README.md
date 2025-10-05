@@ -1,6 +1,6 @@
 # 🌐 m223rx – Personal Portfolio  
 
-![Portfolio Screenshot](./client/assets/screenshots/home.png)
+![Portfolio Screenshot](./assets/screenshots/home.png)
 
 ---
 
@@ -47,13 +47,13 @@
 ## 📸 Screenshots
 
 ### Home Section  
-![Home Screenshot](./client/assets/screenshots/home.png)  
+![Home Screenshot](./assets/screenshots/home.png)  
 
 ### Projects Section  
-![Projects Screenshot](./client/assets/screenshots/projects.png)  
+![Projects Screenshot](./assets/screenshots/projects.png)  
 
 ### Skills Table  
-![Skills Screenshot](./client/assets/screenshots/skills.png)  
+![Skills Screenshot](./assets/screenshots/skills.png)  
 
 
 ---
